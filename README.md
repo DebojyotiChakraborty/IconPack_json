@@ -1,2 +1,2 @@
-# wallpapers_json
-wallpapers for my icon packs
+# IconPack_json
+Wallpapers, update checker, remote disable icon request.

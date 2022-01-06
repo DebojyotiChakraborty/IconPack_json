@@ -1,16 +1,14 @@
 {
-  "latestVersion": "1.0.2",
-  "latestVersionCode": 3,
+  "latestVersion": "1.0.3",
+  "latestVersionCode": 4,
   "disableRequest": {
-    "below": 3,
-    "on": "1"
+    "below": 4,
+    "on": "1 2 3"
   },
   "url": "https://play.google.com/store/apps/details?id=com.debojyoti.h2os_icpack&hl=en",
   "releaseNotes": [
-    "Updated the dashboard to the latest version",
-    "Added  <b>304 </b> new icons and 1500+ new activities",
-    "Added resize option for the analog clock widget",
-	"Updated icons for some apps",
-	"Fixed some known issues"
+    "Added  400+ new icons and 600+ new activities",
+    "Added 5 new wallpapers",
+    "Updated icons for some apps"
   ]
 }

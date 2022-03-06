@@ -4,9 +4,15 @@
   "disableRequest": {
     "below": 2,
     "on": "1"
-  },
+ },
   "url": "https://play.google.com/store/apps/details?id=com.debojyoti.oos12round_icpack",
   "releaseNotes": [
-    "Initial Release"
+    "Added options for Premium Icon Request and Donation",
+    "Now you can buy premium icon requests to get your requests fulfilled faster, you can also donate to support the development of the icon pack",
+    "Added new digital clock widget from OxygenOS",
+    "Added 2 new analog clock widgets",
+    "Added 130+ new icons and 300+ new activities",
+    "Updated icons for google dialer, messages and more apps",
+    "Optimised the look and feel of the dashboard"
   ]
 }

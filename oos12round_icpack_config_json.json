@@ -1,12 +1,13 @@
 {
-  "latestVersion": "1.3",
-  "latestVersionCode": 4,
+  "latestVersion": "1.4",
+  "latestVersionCode": 5,
   "disableRequest": {
-    "below": 4,
-    "on": "1 2 3"
+    "below": 5,
+    "on": "1 2 3 4"
  },
   "url": "https://play.google.com/store/apps/details?id=com.debojyoti.oos12round_icpack",
   "releaseNotes": [
+    "Bug Fixes",
     "Fixed the issue in v1.2 where the dashboard crashed in android 12 devices",
     "Added options for Premium Icon Request and Donation",
     "Now you can buy premium icon requests to get your requests fulfilled faster, you can also donate to support the development of the icon pack",

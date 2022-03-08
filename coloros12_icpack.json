@@ -1,0 +1,14 @@
+{
+  "latestVersion": "1.0",
+  "latestVersionCode": 1,
+  "disableRequest": {
+    "below": 1,
+    "on": "0"
+ },
+  "url": "https://play.google.com/store/apps/details?id=com.debojyoti.coloros12_icpack",
+  "releaseNotes": [
+    "Initial Release",
+    "Includes 1070+ icons",
+	"Includes multiple analog and digital clock widgets"
+  ]
+}

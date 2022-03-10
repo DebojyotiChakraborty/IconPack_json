@@ -1,17 +1,13 @@
 {
-  "latestVersion": "1.4",
-  "latestVersionCode": 5,
+  "latestVersion": "1.5",
+  "latestVersionCode": 6,
   "disableRequest": {
-    "below": 5,
-    "on": "1 2 3 4"
+    "below": 6,
+    "on": "1 2 3 4 5"
   },
   "url": "https://play.google.com/store/apps/details?id=com.debojyoti.h2os_icpack&hl=en",
   "releaseNotes": [
-    "Added  new digital clock widget from OxygenOS",
-    "Added 2 new analog clock widgets",
-    "Added 130+ new icons and 300+ new activities",
-    "Added 6 new wallpapers",
-    "Updated some icons",
-    "Optimised the look and feel of the dashboard"
+    "Bug fixes and optimisations",
+    "Icon requests will be fulfilled in the next update. Stay tuned !"
   ]
 }

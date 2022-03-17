@@ -1,20 +1,12 @@
 {
-  "latestVersion": "1.4",
-  "latestVersionCode": 5,
+  "latestVersion": "1.4.1",
+  "latestVersionCode": 6,
   "disableRequest": {
-    "below": 5,
-    "on": "1 2 3 4"
+    "below": 6,
+    "on": "1 2 3 4 5"
  },
   "url": "https://play.google.com/store/apps/details?id=com.debojyoti.oos12round_icpack",
   "releaseNotes": [
-    "Bug Fixes",
-    "Fixed the issue in v1.2 where the dashboard crashed in android 12 devices",
-    "Added options for Premium Icon Request and Donation",
-    "Now you can buy premium icon requests to get your requests fulfilled faster, you can also donate to support the development of the icon pack",
-    "Added new digital clock widget from OxygenOS",
-    "Added 2 new analog clock widgets",
-    "Added 130+ new icons and 300+ new activities",
-    "Updated icons for google dialer, messages and more apps",
-    "Optimised the look and feel of the dashboard"
+    "Bug Fixes and Optimisations"
   ]
 }

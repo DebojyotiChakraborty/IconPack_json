@@ -1,15 +1,12 @@
 {
-  "latestVersion": "1.1",
-  "latestVersionCode": 3,
+  "latestVersion": "1.2",
+  "latestVersionCode": 4,
   "disableRequest": {
-    "below": 3,
-    "on": "0 1 2"
+    "below": 4,
+    "on": "0 1 2 3"
  },
   "url": "https://play.google.com/store/apps/details?id=com.debojyoti.coloros12_icpack",
   "releaseNotes": [
-    "Added options for donations and premium icon requests",
-    "Added 6 new wallpapers",
-    "Minor UI improvements",
-    "Dashboard optimisations"
+    "Bug fixes and improvements"
   ]
 }

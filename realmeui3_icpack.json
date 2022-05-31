@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.2",
-  "latestVersionCode": 4,
+  "latestVersion": "1.3",
+  "latestVersionCode": 5,
   "disableRequest": {
-    "below": 4,
-    "on": "0 1 2 3"
+    "below": 5,
+    "on": "0 1 2 3 4"
  },
   "url": "https://play.google.com/store/apps/details?id=com.debojyoti.realmeui3_icpack",
   "releaseNotes": [
-    "Plugin and dependency updates"
+    "Icon request temporarily paused. Wait for new update to be published"
   ]
 }

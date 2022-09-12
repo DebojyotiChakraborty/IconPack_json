@@ -1,12 +1,13 @@
 {
-  "latestVersion": "1.6",
-  "latestVersionCode": 8,
+  "latestVersion": "2.0",
+  "latestVersionCode": 9,
   "disableRequest": {
-    "below": 8,
-    "on": "1 2 3 4 5 6 7"
+    "below": 9,
+    "on": "1 2 3 4 5 6 7 8"
  },
   "url": "https://play.google.com/store/apps/details?id=com.debojyoti.oos12round_icpack",
   "releaseNotes": [
-   "100+ new icons, minor UI improvements"
+   "Icon Requests are temporarily disabled",
+		"Major update coming soon"
   ]
 }

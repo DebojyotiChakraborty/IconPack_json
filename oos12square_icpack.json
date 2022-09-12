@@ -1,12 +1,13 @@
 {
-  "latestVersion": "1.3",
-  "latestVersionCode": 5,
+  "latestVersion": "2.0",
+  "latestVersionCode": 6,
   "disableRequest": {
-    "below": 5,
-    "on": "0 1 2 3 4"
+    "below": 6,
+    "on": "0 1 2 3 4 5"
  },
   "url": "https://play.google.com/store/apps/details?id=com.debojyoti.oos12square_icpack",
   "releaseNotes": [
-    "100+ new icons added"
+    "Icon Requests are temporarily disabled",
+		"Major update coming soon"
 ]
 }

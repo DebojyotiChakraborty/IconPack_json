@@ -1,4 +1,26 @@
-[
+{
+    "banners": [
+    {
+      "id": 1,
+      "url": "https://gitlab.com/piyushkpv/wallrio_wall_data/-/raw/main/Banners/wildlife.png?ref_type=heads",
+      "category": "Animals",
+      "link": ""
+    },
+
+    {
+      "id": 2,
+      "url": "https://gitlab.com/piyushkpv/wallrio_wall_data/-/raw/main/Banners/Lunar.png",
+      "category": "Lunar Serenity 🚀👩‍🚀",
+      "link": ""
+    },
+    {
+      "id": 3,
+      "url": "https://gitlab.com/piyushkpv/wallrio_wall_data/-/raw/main/Banners/Buffy%20Promotion%20Banner.png",
+      "category": "",
+      "link": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallspaid"
+    }
+  ],
+"walls": [
     {
         "id": 14,
         "name": "Abstract 1",
@@ -191,3 +213,4 @@
         "isPremium": false
     }
 ]
+}

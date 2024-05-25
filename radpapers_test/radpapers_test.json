@@ -1,20 +1,5 @@
 {
-    "banners":[
-        {
-            "id": 1,
-            "url": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/Wallpaper_2.jpeg",
-            "category":"Something",
-            "link":""
-
-        },
-        {
-            "id": 2,
-            "url": "",
-            "category":"",
-            "link":"bit.ly/StellarWalls"
-
-        }
-    ],
+    
     "walls":[
         {
             "id":3,

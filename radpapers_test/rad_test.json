@@ -1,38 +1,15 @@
-{   
-    "banners": [
-      {
-        "id": 1,
-        "url": "https://gitlab.com/piyushkpv/wallrio_wall_data/-/raw/main/Banners/wildlife.png?ref_type=heads",
-        "category": "Animals",
-        "link": ""
-      },
-  
-      {
-        "id": 2,
-        "url": "https://gitlab.com/piyushkpv/wallrio_wall_data/-/raw/main/Banners/Lunar.png",
-        "category": "Lunar Serenity 🚀👩‍🚀",
-        "link": ""
-      },
-      {
-        "id": 3,
-        "url": "https://gitlab.com/piyushkpv/wallrio_wall_data/-/raw/main/Banners/Buffy%20Promotion%20Banner.png",
-        "category": "",
-        "link": "https://play.google.com/store/apps/details?id=com.shadowteam.buffywallspaid"
-      }
-    ],
-    "walls": [
+[
     {
         "id": 14,
         "name": "Abstract 1",
         "author": "Debojyoti Chakraborty",
         "url": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/abstract/abstract_v1/abstract_1.jpg",
         "thumbnail": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/abstract/abstract_v1/thumb/abstract_1.png",
-        "category": "abstract",
+        "category": "Abstract",
         "color": [
             "pink",
             "red",
-            "gray",
-            "red"
+            "gray"
         ],
         "isPremium": false
     },
@@ -42,11 +19,9 @@
         "author": "Debojyoti Chakraborty",
         "url": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/abstract/abstract_v1/abstract_2.jpg",
         "thumbnail": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/abstract/abstract_v1/thumb/abstract_2.png",
-        "category": "abstract",
+        "category": "Abstract",
         "color": [
             "black",
-            "gray",
-            "gray",
             "gray"
         ],
         "isPremium": false
@@ -57,12 +32,10 @@
         "author": "Debojyoti Chakraborty",
         "url": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/abstract/abstract_v1/abstract_3.jpg",
         "thumbnail": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/abstract/abstract_v1/thumb/abstract_3.png",
-        "category": "abstract",
+        "category": "Abstract",
         "color": [
             "gray",
-            "gray",
-            "orange",
-            "gray"
+            "orange"
         ],
         "isPremium": false
     },
@@ -72,11 +45,10 @@
         "author": "Debojyoti Chakraborty",
         "url": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/abstract/abstract_v1/abstract_4.jpg",
         "thumbnail": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/abstract/abstract_v1/thumb/abstract_4.png",
-        "category": "abstract",
+        "category": "Abstract",
         "color": [
             "black",
             "orange",
-            "gray",
             "gray"
         ],
         "isPremium": false
@@ -87,10 +59,9 @@
         "author": "Debojyoti Chakraborty",
         "url": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/abstract/abstract_v1/abstract_5.jpg",
         "thumbnail": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/abstract/abstract_v1/thumb/abstract_5.png",
-        "category": "abstract",
+        "category": "Abstract",
         "color": [
             "orange",
-            "pink",
             "pink",
             "red"
         ],
@@ -102,10 +73,9 @@
         "author": "Debojyoti Chakraborty",
         "url": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/abstract/abstract_v1/abstract_6.jpg",
         "thumbnail": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/abstract/abstract_v1/thumb/abstract_6.png",
-        "category": "abstract",
+        "category": "Abstract",
         "color": [
             "gray",
-            "pink",
             "pink",
             "black"
         ],
@@ -117,11 +87,9 @@
         "author": "Debojyoti Chakraborty",
         "url": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/surreal/surreal_v1/awesome_bmw.png",
         "thumbnail": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/surreal/surreal_v1/thumb/awesome_bmw.png",
-        "category": "surreal",
+        "category": "Surreal",
         "color": [
             "black",
-            "gray",
-            "gray",
             "gray"
         ],
         "isPremium": false
@@ -132,11 +100,10 @@
         "author": "Debojyoti Chakraborty",
         "url": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/surreal/surreal_v1/contemplation.png",
         "thumbnail": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/surreal/surreal_v1/thumb/contemplation.png",
-        "category": "surreal",
+        "category": "Surreal",
         "color": [
             "black",
             "pink",
-            "gray",
             "gray"
         ],
         "isPremium": false
@@ -147,12 +114,11 @@
         "author": "Debojyoti Chakraborty",
         "url": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/surreal/surreal_v1/deer_family.png",
         "thumbnail": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/surreal/surreal_v1/thumb/deer_family.png",
-        "category": "surreal",
+        "category": "Surreal",
         "color": [
             "gray",
             "black",
-            "pink",
-            "gray"
+            "pink"
         ],
         "isPremium": false
     },
@@ -162,11 +128,10 @@
         "author": "Debojyoti Chakraborty",
         "url": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/surreal/surreal_v1/desert_safari.png",
         "thumbnail": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/surreal/surreal_v1/thumb/desert_safari.png",
-        "category": "surreal",
+        "category": "Surreal",
         "color": [
             "black",
             "pink",
-            "gray",
             "gray"
         ],
         "isPremium": false
@@ -177,12 +142,11 @@
         "author": "Debojyoti Chakraborty",
         "url": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/surreal/surreal_v1/hallucination.png",
         "thumbnail": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/surreal/surreal_v1/thumb/hallucination.png",
-        "category": "surreal",
+        "category": "Surreal",
         "color": [
             "gray",
             "pink",
-            "purple",
-            "gray"
+            "purple"
         ],
         "isPremium": false
     },
@@ -192,9 +156,8 @@
         "author": "Debojyoti Chakraborty",
         "url": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/surreal/surreal_v1/house_on_dune.png",
         "thumbnail": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/surreal/surreal_v1/thumb/house_on_dune.png",
-        "category": "surreal",
+        "category": "Surreal",
         "color": [
-            "gray",
             "gray",
             "orange",
             "red"
@@ -207,12 +170,10 @@
         "author": "Debojyoti Chakraborty",
         "url": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/surreal/surreal_v1/san_francisco_bridge.png",
         "thumbnail": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/surreal/surreal_v1/thumb/san_francisco_bridge.png",
-        "category": "surreal",
+        "category": "Surreal",
         "color": [
             "gray",
-            "pink",
-            "pink",
-            "gray"
+            "pink"
         ],
         "isPremium": false
     },
@@ -222,14 +183,11 @@
         "author": "Debojyoti Chakraborty",
         "url": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/surreal/surreal_v1/tropical_cove.png",
         "thumbnail": "https://raw.githubusercontent.com/DebojyotiChakraborty/IconPack_json/main/radpapers_test/surreal/surreal_v1/thumb/tropical_cove.png",
-        "category": "surreal",
+        "category": "Surreal",
         "color": [
             "black",
-            "gray",
-            "gray",
             "gray"
         ],
         "isPremium": false
     }
 ]
-}

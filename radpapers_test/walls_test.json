@@ -13,7 +13,7 @@
             "red",
             "gray"
         ],
-        "isPremium": false
+        "isPremium": true
     },
     {
         "id": 13,
@@ -67,7 +67,7 @@
             "pink",
             "red"
         ],
-        "isPremium": false
+        "isPremium": true
     },
     {
         "id": 9,
@@ -94,7 +94,7 @@
             "black",
             "gray"
         ],
-        "isPremium": false
+        "isPremium": true
     },
     {
         "id": 7,
@@ -122,7 +122,7 @@
             "black",
             "pink"
         ],
-        "isPremium": false
+        "isPremium": true
     },
     {
         "id": 5,
